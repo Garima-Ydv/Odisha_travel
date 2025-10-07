@@ -43,8 +43,6 @@ The project includes:
 * **Express.js** – Routing and middleware
 * **MySQL** – Database for user and contact information
 
-Then open **[http://localhost:3000/](http://localhost:3000/)** in your browser.
-
 ---
 
 ### 🏖️ Pages Overview
